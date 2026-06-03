@@ -31,7 +31,7 @@ HW2/
 
 ```bash
 git clone https://github.com/re3perR/HW2_TP
-cd HW2
+cd HW2_TP
 ```
 
 Установите зависимости:
